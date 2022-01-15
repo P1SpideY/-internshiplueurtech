@@ -1,0 +1,22 @@
+.about{
+    
+    margin: 120px;
+    border-radius: 20px;
+    background-color: #15172b;
+    color: white;
+    padding: 20px;
+    box-shadow:  10px 10px 10px black;
+}
+.title{
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    font-size: 40px;
+    padding: 20px;
+
+}
+.info{
+    padding: 30px;
+    margin: 20px;
+    font-size: 20px;
+}
